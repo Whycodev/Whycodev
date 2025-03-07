@@ -18,3 +18,6 @@
 
 <!-- Baekjoon Online Judge -->
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj={Whycodev})](https://solved.ac/{Whycodev})
+
+<!-- Snake -->
+![snake gif](https://github.com/Whycodev/Whycodev/blob/output/github-contribution-grid-snake.svg)
