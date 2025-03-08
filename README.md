@@ -1,6 +1,12 @@
 <!-- Header -->
 ![speech](https://capsule-render.vercel.app/api?type=speech&height=200&fontSize=45&color=gradient&text=Why-nl-Code-nl-Developer&animation=blinking&fontAlign=20,40,70&fontAlignY=35,60,50)
 
+## 🧱 Tech Stack
+<!--Python-->
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<br/>
+
+## 🤔 Github Stats
 <!-- Status01_languages -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whycodev&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=49% />
