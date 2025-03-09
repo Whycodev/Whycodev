@@ -2,8 +2,8 @@
 ![speech](https://capsule-render.vercel.app/api?type=speech&height=200&fontSize=45&color=gradient&text=Why-nl-Code-nl-Developer&animation=blinking&fontAlign=20,40,70&fontAlignY=35,60,50)
 
 ## 🧱 Tech Stack
-<!--Python-->
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<!-- Tech List -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
 <br/>
 
 ## 🤔 Github Stats
