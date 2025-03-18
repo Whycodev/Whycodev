@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=Neovim&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> <img src="https://img.shields.io/badge/Gatsby-663399?style=flat-square&logo=Gatsby&logoColor=white"/> 
 
 ### I'm going to try it
-<img src="https://img.shields.io/badge/amazonwebservices-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
 <br/>
 
 ## 🤔 Github Stats
