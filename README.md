@@ -22,7 +22,7 @@
 
 <!-- 예시 -->
 <!-- |<sub>2025.01</sub> | **📷 Instoolgram** | Instagram Reels Downloader | [🐈](https://github.com/seondal/Instoolgram) &nbsp; [🔗](https://instoolgram.seondal.kr) | -->
-|출시|프로젝트|소개|바로가기|
+|개발기간|프로젝트|소개|바로가기|
 |:-:|:-|:-|:-:|
 |<sub>2025.03</sub> | **📸 DB_Transfer** | DB 데이터 이전 프로그램 |  |
 </div>
